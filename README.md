@@ -29,7 +29,7 @@
 
 ### Project Summery
 
-Chat Application is a RestApi created using Spring Boot framework.
-• I have used concepts like, Spring boot , Java Persistence Api , Http Methods like Post, Get, Put, Delete ,table relation
-between two or more tables,etc in detail.
-• Tech stack used: Java,Spring boot ,Spring Data JPA
+* Chat Application is a RestApi created using Spring Boot framework.
+* I have used concepts like, Spring boot , Java Persistence Api , Http Methods like Post, Get, Put, Delete ,table relation
+  between two or more tables,etc in detail.
+* Tech stack used: Java,Spring boot ,Spring Data JPA
